@@ -1,5 +1,5 @@
 # Pierwsze repo – hello-world
-
+**Link do strony:** [KLIKNIJ TUTAJ](https://dzagerooo.github.io/pierwsze-repo/)
 To prosta strona HTML/CSS przygotowana jako ćwiczenie z systemem kontroli wersji Git oraz serwisem GitHub.
 
 ## Jak uruchomić
